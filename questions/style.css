@@ -1,0 +1,12 @@
+/* Whole document: */
+body {
+  font-family: Courier, sans-serif; /* Using a fallback font in case Courier isn't available */
+  font-size: 14pt;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+  font-family: cursive, sans-serif; /* Using a different font for headers */
+  font-size: 22pt;
+  font-weight: bold; /* Making headers bold for better differentiation */
+}
